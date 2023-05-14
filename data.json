@@ -1,0 +1,20 @@
+{
+    "Items": [
+        {
+            "id": 0,
+            "name": "MacBook Pro 14 inch",
+            "cpu": "M2 Pro",
+            "memory": "32GB",
+            "storage": "512GB",
+            "price": 3499
+        },
+        {
+            "id": 1,
+            "name": "MacBook Pro 14 inch",
+            "cpu": "M2 Pro",
+            "memory": "32GB",
+            "storage": "1TB",
+            "price": 3769
+        }
+    ]
+}
